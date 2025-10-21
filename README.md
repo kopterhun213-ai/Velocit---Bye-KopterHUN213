@@ -1,4 +1,4 @@
-This Minecraft Velocity plugin (https://modrinth.com/plugin/velocity
+This Minecraft Velocity plugin ([https://modrinth.com/plugin/velocity](https://modrinth.com/plugin/velocit)
 ) works perfectly. I just modified it and fixed a bug:
 
 The bug occurred when restarting the proxy—the plugin would try to save the ID again, causing issues.
